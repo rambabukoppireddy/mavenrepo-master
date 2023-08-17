@@ -34,7 +34,7 @@
         <repository>
             <id>deployment</id>
             <name>student snapshots Releases</name>
-            <url>http://175.41.216.133:8081/repository/studentapp-rel/</url>
+            <url>http:///repository/studenthttp://35.180.73.67:9000/app-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
